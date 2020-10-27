@@ -122,3 +122,9 @@ rocket-navigation > ul > li > a {
     background: var(--footer-background);
   }
 }
+
+@media screen and (min-width: 1024px) {
+  #sidebar {
+    max-width: 280px;
+  }
+}
